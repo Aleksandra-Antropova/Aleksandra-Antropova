@@ -9,7 +9,7 @@
 ## My work
 ### Company: birding.guru
 ### birding.guru is a tour selection service for professional birdwatchers (Since January 2023 - present)
-#### Роль: Manual QA
+#### Role in the project: Manual QA
 * Developed comprehensive user documentation from scratch for colleagues
 * Created detailed website map and individual modules using Mindmap
 * Actively monitor system updates and promptly update our documentation to ensure accuracy and relevance
