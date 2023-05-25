@@ -22,7 +22,7 @@
 
 
 # My CV
-[resume](https://drive.google.com/file/d/1uwR1bTlTXyhyTUYIPPpeqS9OQ9gkEQ8Y/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1uwR1bTlTXyhyTUYIPPpeqS9OQ9gkEQ8Y/view?usp=sharing)
 
 # Examples of my work
 ### Test documentation
